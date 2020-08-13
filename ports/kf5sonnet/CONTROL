@@ -1,0 +1,4 @@
+Source: kf5sonnet
+Version: 5.64.0
+Description: Spelling framework for Qt5
+Build-Depends: ecm, qt5-base, qt5-tools
