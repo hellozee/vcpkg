@@ -1,0 +1,5 @@
+
+Source: kf5kcmutils
+Version: 5.64.0
+Description: Utilities for interacting with KCModules
+Build-Depends: ecm, qt5-tools, kf5declarative
