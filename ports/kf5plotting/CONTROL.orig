@@ -1,9 +1,0 @@
-Source: kf5plotting
-<<<<<<< HEAD
-Version: 5.74.0
-=======
-Version: 5.73.0
->>>>>>> e10a48328... Update KF5 framework to 5.73
-Homepage: https://api.kde.org/frameworks/kplotting/html/index.html
-Description: Lightweight plotting framework
-Build-Depends: ecm, qt5-base[core], qt5-tools
