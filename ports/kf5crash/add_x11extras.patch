@@ -3,6 +3,8 @@ index 8c66d85..f2d89cb 100644
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
 @@ -17,8 +17,9 @@ include(KDEInstallDirs)
+ include(KDEFrameworkCompilerSettings NO_POLICY_SCOPE)
+ include(KDECMakeSettings)
  
  set(HAVE_X11 ${X11_FOUND})
  
